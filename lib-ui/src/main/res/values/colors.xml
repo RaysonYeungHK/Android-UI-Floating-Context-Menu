@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_floating_context_menu_highlight">#FF0092CC</color>
+    <color name="widget_floating_context_menu_background">#FF323232</color>
+    <color name="widget_floating_context_menu_foreground">#FFF0F0F0</color>
+</resources>
